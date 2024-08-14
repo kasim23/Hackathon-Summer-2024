@@ -1,0 +1,17 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+keras
+torch
+rpy2
+anndata
+scanpy
+signac
+umap-learn
+tqdm
+jupyterlab
+ipykernel
