@@ -1,0 +1,6 @@
+name: gids-biomedical-hackathon
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      -r /Users/omama/Documents/Portfolio/gids_hackathon2024/Hackathon-Summer-2024/requirements.txt
